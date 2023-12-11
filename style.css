@@ -1,0 +1,27 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+.heading
+{
+font-size: 45px;
+width: 100%;
+margin: 0px;
+background-color:rgb(167, 116, 8);
+font-family: 'Girassol', cursive;
+}
+
+#status
+{
+font-size: 18px;
+background-color:rgb(235, 202, 96);
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+border:double;
+}
